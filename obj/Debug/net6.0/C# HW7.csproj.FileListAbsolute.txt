@@ -1,0 +1,15 @@
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/bin/Debug/net6.0/C# HW7
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/bin/Debug/net6.0/C# HW7.deps.json
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/bin/Debug/net6.0/C# HW7.runtimeconfig.json
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/bin/Debug/net6.0/C# HW7.dll
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/bin/Debug/net6.0/C# HW7.pdb
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/obj/Debug/net6.0/C# HW7.csproj.AssemblyReference.cache
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/obj/Debug/net6.0/C# HW7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/obj/Debug/net6.0/C# HW7.AssemblyInfoInputs.cache
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/obj/Debug/net6.0/C# HW7.AssemblyInfo.cs
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/obj/Debug/net6.0/C# HW7.csproj.CoreCompileInputs.cache
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/obj/Debug/net6.0/C# HW7.dll
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/obj/Debug/net6.0/refint/C# HW7.dll
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/obj/Debug/net6.0/C# HW7.pdb
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/obj/Debug/net6.0/C# HW7.genruntimeconfig.cache
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# HW7/obj/Debug/net6.0/ref/C# HW7.dll
